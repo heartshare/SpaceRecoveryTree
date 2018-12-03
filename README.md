@@ -19,4 +19,23 @@ OPTIMIZE TABLE 命令只对 MyISAM 、 BDB 和 InnoDB 表起作用
 表优化的工作对提高表的访问效率有一定的好处，但是需要注意的是，优化表期间会锁定表，所以一定要在空闲的时候进行。
 </pre>
 
+<pre>
+Redis淘汰策略
+</pre>
+
+<pre>
+Redis内存回收
+</pre>
+
+<pre>
+Memcache淘汰策略
+</pre>
+
+<pre>
+Memcache内存回收
+</pre>
+
+<pre>
+MongoDB回收策略
+</pre>
 
